@@ -6,7 +6,6 @@ body {
 }
 .date {
 	display: flex;
-	width: 50%;
 	height: 200px;
 	flex-direction: column;
 	justify-content: center;
@@ -16,7 +15,6 @@ body {
 }
 .string {
 	display: flex;
-	width: 50%;
 	height: 200px;
 	flex-direction: column;
 	justify-content: center;
