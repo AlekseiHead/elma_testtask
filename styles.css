@@ -1,0 +1,26 @@
+body {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+.date {
+	display: flex;
+	width: 50%;
+	height: 200px;
+	flex-direction: column;
+	justify-content: center;
+}
+.date > div {
+	padding-bottom: 10px;
+}
+.string {
+	display: flex;
+	width: 50%;
+	height: 200px;
+	flex-direction: column;
+	justify-content: center;
+}
+.string > div {
+	padding-bottom: 10px;
+}
